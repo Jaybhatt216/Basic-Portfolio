@@ -31,7 +31,7 @@ body {
 }
 
 /* Header Content */
-.container-header {
+.header1 {
     overflow: hidden;
     width: 100%;
     margin: auto;
@@ -41,7 +41,7 @@ body {
     display: flex;
 }
 
-.header-content {
+.header2 {
     width: 960px;
     margin: auto;
     background-color: #ffffff;
@@ -90,7 +90,7 @@ li h2 {
     text-decoration: none
 }
 
-#white-border-line {
+#white-line {
     border: none;
 }
 
@@ -147,11 +147,11 @@ p {
     font-size: large;
 }
 
-#about-me-wrapper {
+#wrapper {
     padding-top: 35px;
 }
 
-#about-me-img {
+#me-img {
     float: left;
     width: 198px;
     height: 149px;
