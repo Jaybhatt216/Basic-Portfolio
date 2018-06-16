@@ -1,1 +1,1 @@
-# Basic-Portfolio
+This is homework 1 please see the items 
